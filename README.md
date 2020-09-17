@@ -1,2 +1,2 @@
 # Hello_Word
-Making bitcoin easily wth script
+Making bitcoin easily with script
